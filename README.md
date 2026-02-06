@@ -24,3 +24,5 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Push a hash/an object into array](https://www.codewars.com/kata/527b3cd0492b6b15250060af) | 7-kyu | java | [Solution](codewars/java/7-kyu/push-a-hash-an-object-into-array.java) | 2/7/2026 |
 
 </details>
+
+| [Be Concise I - The Ternary Operator](https://www.codewars.com/kata/56f3f6a82010832b02000f38) | 7-kyu | java | [Solution](codewars/java/7-kyu/be-concise-i-the-ternary-operator.java) | 2/7/2026 |
