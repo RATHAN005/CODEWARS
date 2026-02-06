@@ -7,6 +7,9 @@ Welcome! This repository is automatically updated with my solutions to various a
 
 ## 🚀 Solved Problems
 
+<details>
+<summary>View Solutions</summary>
+
 | ⚡ Problem | 🥋 Difficulty | 🛠️ Language | 📜 Solution | 📅 Date |
 | :--- | :--- | :--- | :--- | :--- |
 | [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) | 8-kyu | java | [Solution](codewars/java/8-kyu/reversed-sequence.java) | 2/6/2026 |
@@ -15,3 +18,6 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Find the Slope](https://www.codewars.com/kata/55a75e2d0803fea18f00009d) | 8-kyu | java | [Solution](codewars/java/8-kyu/find-the-slope.java) | 2/6/2026 |
 | [Not so black box](https://www.codewars.com/kata/57080f21d531cd94950007eb) | 8-kyu | javascript | [Solution](codewars/javascript/8-kyu/not-so-black-box.js) | 2/6/2026 |
 | [Simple prime streaming](https://www.codewars.com/kata/5a908da30025e995880000e3) | 7-kyu | java | [Solution](codewars/java/7-kyu/simple-prime-streaming.java) | 2/6/2026 |
+| [Are there any arrows left?](https://www.codewars.com/kata/559f860f8c0d6c7784000119) | 7 KYU | javascript | [Solution](codewars/javascript/7-kyu/are-there-any-arrows-left.js) | 2026-02-06 |
+
+</details>
