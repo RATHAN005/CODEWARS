@@ -26,3 +26,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 </details>
 
 | [Be Concise I - The Ternary Operator](https://www.codewars.com/kata/56f3f6a82010832b02000f38) | 7-kyu | java | [Solution](codewars/java/7-kyu/be-concise-i-the-ternary-operator.java) | 2/7/2026 |
+| [All that is open must be closed...](https://www.codewars.com/kata/55679d644c58e2df2a00009c) | 7-kyu | javascript | [Solution](codewars/javascript/7-kyu/all-that-is-open-must-be-closed.js) | 2/7/2026 |
