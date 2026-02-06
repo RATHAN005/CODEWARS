@@ -21,3 +21,5 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Are there any arrows left?](https://www.codewars.com/kata/559f860f8c0d6c7784000119) | 7 KYU | javascript | [Solution](codewars/javascript/7-kyu/are-there-any-arrows-left.js) | 2026-02-06 |
 
 </details>
+
+| [Grasshopper - Terminal Game #1](https://www.codewars.com/kata/55e8aba23d399a59500000ce) | 7-kyu | javascript | [Solution](codewars/javascript/7-kyu/grasshopper-terminal-game-1.js) | 2/7/2026 |
