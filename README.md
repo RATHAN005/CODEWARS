@@ -23,3 +23,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 </details>
 
 | [Grasshopper - Terminal Game #1](https://www.codewars.com/kata/55e8aba23d399a59500000ce) | 7-kyu | javascript | [Solution](codewars/javascript/7-kyu/grasshopper-terminal-game-1.js) | 2/7/2026 |
+| [Push a hash/an object into array](https://www.codewars.com/kata/527b3cd0492b6b15250060af) | 7-kyu | java | [Solution](codewars/java/7-kyu/push-a-hash-an-object-into-array.java) | 2/7/2026 |
