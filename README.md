@@ -18,10 +18,9 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Find the Slope](https://www.codewars.com/kata/55a75e2d0803fea18f00009d) | 8-kyu | java | [Solution](codewars/java/8-kyu/find-the-slope.java) | 2/6/2026 |
 | [Not so black box](https://www.codewars.com/kata/57080f21d531cd94950007eb) | 8-kyu | javascript | [Solution](codewars/javascript/8-kyu/not-so-black-box.js) | 2/6/2026 |
 | [Simple prime streaming](https://www.codewars.com/kata/5a908da30025e995880000e3) | 7-kyu | java | [Solution](codewars/java/7-kyu/simple-prime-streaming.java) | 2/6/2026 |
-| [Are there any arrows left?](https://www.codewars.com/kata/559f860f8c0d6c7784000119) | 7 KYU | javascript | [Solution](codewars/javascript/7-kyu/are-there-any-arrows-left.js) | 2026-02-06 |
-
-</details>
-
+| [Are there any arrows left?](https://www.codewars.com/kata/559f860f8c0d6c7784000119) | 7 KYU | javascript | [Solution](codewars/javascript/7-kyu/are-there-any-arrows-left.js) | 2/7/2026 |
 | [Grasshopper - Terminal Game #1](https://www.codewars.com/kata/55e8aba23d399a59500000ce) | 7-kyu | javascript | [Solution](codewars/javascript/7-kyu/grasshopper-terminal-game-1.js) | 2/7/2026 |
 | [Push a hash/an object into array](https://www.codewars.com/kata/527b3cd0492b6b15250060af) | 7-kyu | java | [Solution](codewars/java/7-kyu/push-a-hash-an-object-into-array.java) | 2/7/2026 |
 | [Push a hash/an object into array](https://www.codewars.com/kata/527b3cd0492b6b15250060af) | 7-kyu | java | [Solution](codewars/java/7-kyu/push-a-hash-an-object-into-array.java) | 2/7/2026 |
+
+</details>
