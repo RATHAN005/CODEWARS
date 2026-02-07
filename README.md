@@ -26,3 +26,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [All that is open must be closed...](https://www.codewars.com/kata/55679d644c58e2df2a00009c) | 7-kyu | javascript | [Solution](codewars/javascript/7-kyu/all-that-is-open-must-be-closed.js) | 2/7/2026 |
 
 </details>
+| [No zeros for heroes](https://www.codewars.com/kata/570a6a46455d08ff8d001002) | 7-kyu | java | [Solution](codewars/java/7-kyu/no-zeros-for-heroes.java) | 2/7/2026 |
